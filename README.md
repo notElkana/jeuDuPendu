@@ -1,1 +1,1 @@
-# Jeu du Pendu
+# Jeu du Pendu (0.1.0)
